@@ -2,6 +2,8 @@
 Simple program (.exe) for anonymizing DICOMs.
 
 ## To use:
+Download the .exe-file from the [tags section](https://github.com/andreped/dicomAnonymizer/releases). It can be found in **Assets**.
+
 Simply run the executable. A file dialog will open. Choose the patient folder of interest. Click "Open". The program will start to run immediately. There will be created an anonymized folder at the same level as the selected patient folder. Thus, the original data will be kept untouched. While the program is running, a console should output prints for which scan it is currently working on. When the program is finished, the console will close.
 
 ## Expected Patient Folder Structure:
